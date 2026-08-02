@@ -41,3 +41,4 @@ All rights reserved.
 ---
 
 **Fecurity — Apex Legends Performance Analyzer 2026**
+
